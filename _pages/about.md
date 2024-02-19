@@ -13,4 +13,4 @@ My research interests Natural Language Processing,Software Engineering.
 I am very fortunate to be advised by [Prof. Wei Chen] of VLR&DISC Lab from [School of Software Engineering], Huazhong University of Science and Technology. 
 
 
-[Email](2996551901@qq.com) / [Github](https://github.com/BitJiao/) 
+[Email](2996551901@qq.com) 
